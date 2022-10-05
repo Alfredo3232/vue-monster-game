@@ -1,0 +1,24 @@
+{
+  "name": "vue_monster_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arojas32/Vue_Monster_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arojas32/Vue_Monster_Project/issues"
+  },
+  "homepage": "https://github.com/arojas32/Vue_Monster_Project#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-vue": "^9.6.0"
+  }
+}
