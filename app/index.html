@@ -38,8 +38,8 @@
 
     <section id="controls">
       <button @click="attackMonster">ATTACK</button>
-      <button>SPECIAL ATTACK</button>
-      <button>HEAL</button>
+      <button :disabled="mayUseSpecialAttack" @click="specialAttackMonster">SPECIAL ATTACK</button>
+      <button @click="healPlayer">HEAL</button>
       <button>SURRENDER</button>
     </section>
 
