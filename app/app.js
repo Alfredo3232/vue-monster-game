@@ -11,10 +11,10 @@ const app = Vue.createApp({
     },
     computed: {
         monsterBarStyles() {
-            return { width: monsterHealth + '%' }
+            return { width: this.monsterHealth + '%' }
         },
         playerBarStyles() {
-            return { width: playerHealth + '%' }
+            return { width: this.playerHealth + '%' }
         }
     },
     methods: {
