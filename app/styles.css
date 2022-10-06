@@ -103,11 +103,11 @@ button:disabled {
 }
 
 .log--player {
-  color: #7700ff;
+  color: #0008ff;
 }
 
 .log--monster {
-  color: #da8d00;
+  color: #a200ff;
 }
 
 .log--damage {
