@@ -2,6 +2,8 @@ function getRandomValue(min, max) {
     return Math.floor(Math.random() * (max - min)) + min;
 }
 
+// disabled because we have Vue available through a CDN in our HTML page
+// eslint-disable-next-line no-undef
 const app = Vue.createApp({
     data() {
         return {
