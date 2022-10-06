@@ -103,6 +103,8 @@ dist
 # TernJS port file
 .tern-port
 
+# eslint settings
 .eslintrc.json
 
+# vscode workspace settings
 .vscode/
