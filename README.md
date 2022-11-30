@@ -1,4 +1,4 @@
-# Vue_Monster_Project
+# vue_monster_project
 
 A small game where you as the player try to bring the monsters health to 0
 
