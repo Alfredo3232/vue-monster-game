@@ -18,10 +18,9 @@
   },
   "homepage": "https://github.com/arojas32/Vue_Monster_Project#readme",
   "devDependencies": {
-    "eslint": "^8.24.0",
-    "eslint-plugin-vue": "^9.6.0"
+    "eslint": "^8.33.0"
   },
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.2"
   }
 }
