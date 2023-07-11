@@ -31,9 +31,8 @@ const app = Vue.createApp({
         mayUseSpecialAttack() {
             if (this.specialActions < 1) {
                 return true;
-            } else {
-                return false;
             }
+            return false;
         }
     },
     watch: {
